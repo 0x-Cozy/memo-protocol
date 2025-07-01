@@ -1,5 +1,9 @@
 # Memo Protocol
 
+> 🧪 Originally built for the [Sui Overflow Hackathon](https://sui.io/overflow), now maintained as a public utility by [@0x-Cozy](https://github.com/0x-Cozy).
+
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 A protocol for attaching memos to Sui transactions, with both on-chain contracts and a TypeScript SDK.
 
 ## Contracts
